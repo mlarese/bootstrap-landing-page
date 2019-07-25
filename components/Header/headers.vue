@@ -1,7 +1,7 @@
 <template>
   <!--eslint-disable-->
     <div>
-    <div><h6>Hotel Ambassador C 2017</h6></div>
+    <div style="text-align: center"><h6>Hotel Ambassador C 2017</h6></div>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" style="height: 700px">
             <div class="carousel-item active">

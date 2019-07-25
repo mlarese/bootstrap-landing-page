@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container-fluid pr-0 pl-0">
     <headers/>
     <welcomepage/>
     <br>
